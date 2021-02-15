@@ -1,0 +1,6 @@
+/Users/boss/Projects/C# Dili/Kitaplik_Projesi/Kitaplik_Projesi/bin/Debug/Kitaplik_Projesi.exe
+/Users/boss/Projects/C# Dili/Kitaplik_Projesi/Kitaplik_Projesi/bin/Debug/Kitaplik_Projesi.pdb
+/Users/boss/Projects/C# Dili/Kitaplik_Projesi/Kitaplik_Projesi/obj/Debug/Kitaplik_Projesi.csprojAssemblyReference.cache
+/Users/boss/Projects/C# Dili/Kitaplik_Projesi/Kitaplik_Projesi/obj/Debug/Kitaplik_Projesi.csproj.CoreCompileInputs.cache
+/Users/boss/Projects/C# Dili/Kitaplik_Projesi/Kitaplik_Projesi/obj/Debug/Kitaplik_Projesi.exe
+/Users/boss/Projects/C# Dili/Kitaplik_Projesi/Kitaplik_Projesi/obj/Debug/Kitaplik_Projesi.pdb
